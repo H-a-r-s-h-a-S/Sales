@@ -1,5 +1,7 @@
 # Sales
 Sales is a small database that contains data of customers details and their purchases.
+The size of the database can be controlled by the parameters.json file.
+The range of data can also be controlled here.
 
 ## Creating the database
 If you already have mysql and python set up on your local machine, you can go ahead and run 
