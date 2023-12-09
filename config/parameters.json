@@ -1,0 +1,6 @@
+{
+	"customers": 50,
+	"transactions": 1000,
+	"data start": "-1y",
+	"data end": "today"
+}
